@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="612" height="408" alt="Design_a_logo_for_Pi-removebg-preview" src="https://github.com/user-attachments/assets/0e6351fb-84ed-4027-9cbb-fde0cac41290" />
+<img  alt="Design_a_logo_for_Pi-removebg-preview" src="https://github.com/user-attachments/assets/0e6351fb-84ed-4027-9cbb-fde0cac41290" />
 </p>
 
 
