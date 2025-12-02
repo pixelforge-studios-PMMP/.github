@@ -5,18 +5,16 @@
 
 
 ## 🧱 Who We Are
-We are **PixelForge Studios**, a new Minecraft: Bedrock Edition development team focused on building modular, async-friendly, and culturally immersive **PocketMine-MP plugins**.  
+We are **PixelForge Studios**, a new Minecraft: Servr development team focused on building modular, async-friendly, and culturally immersive **Java And Bedrock plugins**.  
 Our goal? To craft plugins that feel cinematic, scalable, and full of soul—whether you're launching into Skyblock or syncing inventories across worlds.
 
 We’re a growing team of passionate devs from across the globe 🌍, united by our love for Minecraft and expressive code.
 
 ## 🔧 What We Do
 
-- 🧩 Build modular, lag-free PMMP plugins using **PHP**, **AwaitStd**, **coroutines**, and **defensive coding**
+- 🧩 Build modular, lag-free  plugins using **PHP**, **Java**, **Kothlin*, and **defensive coding**
 - 🎭 Design Hinglish-flavored UI, Unicode health bars, and lore-rich server intros
 - 🔊 Sync custom sounds, particles, and animations for immersive feedback
-- 🛠️ Use **PHPStan (max level)** and expressive debug overlays to catch issues before they hit your server
-- 📦 Automate ZIP downloads and modular resource extraction for plugin updates
 
 Check out our flagship project:  
 → [SkyblockCore](https://github.com/pixelforge-studios-PMMP/SkyblockCore) — minions, launchpads, lore, and async magic
@@ -24,7 +22,7 @@ Check out our flagship project:
 ## 💬 Got You Interested?
 Want to help shape the future of Bedrock plugins? Whether you're a dev, designer, tester, or just love Minecraft server polish—we’d love to meet you!
 
-👥 Join our Discord: [https://discord.gg](https://discord.gg/SuFHPSTH)
+👥 Join our Discord: [https://discord.gg/pixelforge](https://discord.gg/YaFDp8FvbQ)
 
 🌐 Visit our site: [https://pixelforgestudios.pages.dev/](https://pixelforgestudios.pages.dev/)
 
