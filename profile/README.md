@@ -5,7 +5,7 @@
 
 
 ## 🧱 Who We Are
-We are **PixelForge Studios**, a new Minecraft: Servr development team focused on building modular, async-friendly, and culturally immersive **Java And Bedrock plugins**.  
+We are **PixelForge Studios**, a new Minecraft: Server development team focused on building modular, async-friendly, and culturally immersive **Java And Bedrock plugins**.  
 Our goal? To craft plugins that feel cinematic, scalable, and full of soul—whether you're launching into Skyblock or syncing inventories across worlds.
 
 We’re a growing team of passionate devs from across the globe 🌍, united by our love for Minecraft and expressive code.
